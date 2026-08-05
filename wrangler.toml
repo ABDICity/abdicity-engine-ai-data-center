@@ -1,0 +1,5 @@
+name = "abdicity-engine-ai-data-center"
+compatibility_date = "2026-08-05"
+
+[assets]
+directory = "./public"
